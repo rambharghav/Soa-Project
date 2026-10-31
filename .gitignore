@@ -1,0 +1,4 @@
+.metadata/
+logs/
+*.pid
+*.log
